@@ -130,5 +130,6 @@ app/src/main/java/com/notebook/
 ---
 
 **Версия**: 1.0  
-**Дата создания**: 2024
+**Дата создания**: 2025
+Made by Viktoriya Gonchar
 
